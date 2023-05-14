@@ -16,7 +16,7 @@
 
 <br/>  
 
-##  Certifications and trainings
+##  📃 Certifications and trainings
 
 
 ☑️ <a href="https://university.atlassian.com/student/award/5oitZgjrhqq15gJTEX5S9Peh" target="_blank">JIRA Fundamentals - Atlassian University</a>
@@ -61,7 +61,6 @@
 - BrowserStack
 - SQL
 
-
 ☑️ <a href="https://kursysql.pl" target="_blank">SQL in 120 minutes ('SQL w 120 minut') - kursySQL.pl</a>
 
 - SQL Server 2022
@@ -78,13 +77,19 @@
 - Jira
 - qTest
 
-
 ☑️ <a href="https://www.udemy.com/certificate/UC-9970fab7-41c9-43e6-92fd-eebe061635f1/" target="_blank">Git Beginner in VS Code - Udemy</a>
 
 - creating a local repository
 - adding files to the repository and tracking changes to those files
 - uploading changes from the local repository to GitHub
 
+☑️ <a href="#" target="_blank">Postman from scratch - REST API testing ('Postman od podstaw - testowanie REST API') - Udemy</a>
+
+- Postman
+- sending requests
+- defining environments
+- defining variables
+- REST API testing
 
 </br>
 

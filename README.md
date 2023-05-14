@@ -22,13 +22,13 @@
 
 - 📝  <b>Test plans and test cases</b> </br> These documents describe the testing strategy, procedures, and scripts used to test software applications.  
 
-- 🐛 <b>Defect reports and bug tracking</b> </br> This includes a record of identified software bugs or defects, their severity, and how they were resolved.
+- 🐛 <b>[Defect reports and bug tracking](Defect%20%26%20Bug%20Reports/README.md)</b> </br> This includes a record of identified software bugs or defects, their severity, and how they were resolved.
 
 - 🔄  <b>Automation scripts</b> (in progress) </br> Scripts used for automating repetitive testing tasks, such as regression testing. 
 
 - 📈  <b>Metrics reports</b> (in progress) </br> These reports provide an overview of key quality metrics such as defect density, test coverage, and test execution status.
 
-- 📃  <b>[Certifications and training](Courses%20%26%20Certifications/README.md)</b> </br> Evidence of professional training or certifications that I have completed to improve my skills and expertise.
+- 📃  <b>[Certifications and trainings](Courses%20%26%20Certifications/README.md)</b> </br> Evidence of professional training or certifications that I have completed to improve my skills and expertise.
 
 - 📂  <b>Project work samples</b> (in progress) </br> Examples of QA work done on past projects, including project documentation and project reports.
 

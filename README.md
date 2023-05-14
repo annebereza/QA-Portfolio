@@ -22,7 +22,7 @@
 
 - 📝  <b>Test plans and test cases</b> </br> These documents describe the testing strategy, procedures, and scripts used to test software applications.  
 
-- 🐛 <b>[Defect reports and bug tracking](Defect%20%26%20Bug%20Reports/README.md)</b> </br> This includes a record of identified software bugs or defects, their severity, and how they were resolved.
+- 🐛 <b>[Defects reports and bug tracking](Defect%20%26%20Bug%20reports%20/README.md)</b> </br> This includes a record of identified software bugs or defects, their severity, and how they were resolved.
 
 - 🔄  <b>Automation scripts</b> (in progress) </br> Scripts used for automating repetitive testing tasks, such as regression testing. 
 

@@ -16,7 +16,7 @@
 
  
 
-##  🐛 Defect reports and bug tracking
+##  🐛 Defects reports and bug tracking
 
 <br/>  
 
@@ -25,9 +25,21 @@
 
 ☑️ *Test environment:* <a href="https://apps.apple.com/pl/app/swipeto/id1613316079" target="_blank">SwipeTo - Mobile App</a>
 
-:arrow_forward: <a href="https://drive.google.com/drive/folders/1CIq4ymjmStQLU3cuLyTUEgO3-8O03IQm?usp=share_link" target="_blank"><b>Bug report - mobile app testing </b></a>
+:arrow_forward: <a href="https://drive.google.com/drive/folders/1CIq4ymjmStQLU3cuLyTUEgO3-8O03IQm?usp=share_link" target="_blank"><b>Bug report - Mobile App testing </b></a>
 
 
+</br>
+
+
+###  uTest - BUG REPORT examples 
+
+
+☑️ *Test environment:* <a href="https://wallapop.com/" target="_blank">Wallapop - Website</a>
+
+:arrow_forward: <a href="https://drive.google.com/file/d/1QCwZqDHzqJTl2rugi_x641UqeQHJaGd1/view" target="_blank"><b>Bug report - Website testing </b></a>
+
+
+</br>
 
 
 

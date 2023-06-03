@@ -42,6 +42,17 @@
 </br>
 
 
+###  TestRail - BUG REPORT examples 
+
+
+☑️ *Test environment:* <a href="https://portal.funduszmieszkan.pl/pl/login" target="_blank">Fundusz Mieszkań na Wynajem - Web App</a>
+
+:arrow_forward: <a href="https://drive.google.com/drive/folders/1V05wv_tGd8HnrClZCqADFvsLKapKIHAI" target="_blank"><b>Bug report - Website testing </b></a>
+
+
+</br>
+
+
 
 I have compiled this portfolio to showcase my skills and experience to potential employers or clients. It demonstrates my commitment to delivering high-quality software products and my ability to work effectively in a team environment.
 

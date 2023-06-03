@@ -19,7 +19,7 @@
 
 <br/>  
 
-###  TEST PLAN & CASE - examples 
+###  TEST CASES - examples 
 
 
 ☑️ *Test environment:* <a href="https://scouts-test.futbolkolektyw.pl/en" target="_blank">Futbolkolektyw - Web App</a>

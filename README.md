@@ -20,7 +20,7 @@
 
  👨‍💻  In this repository, you will find a variety of materials that demonstrate my expertise in software testing and quality assurance, including:
 
-- 📝  <b>Test plans and test cases</b> </br> These documents describe the testing strategy, procedures, and scripts used to test software applications.  
+- 📝  <b>[Test plans and test cases](Test%20plans%20&%20Test%20cases/README.md)</b> </br> These documents describe the testing strategy, procedures, and scripts used to test software applications.  
 
 - 🐛 <b>[Defects reports and bug tracking](Defect%20%26%20Bug%20reports%20/README.md)</b> </br> This includes a record of identified software bugs or defects, their severity, and how they were resolved.
 
